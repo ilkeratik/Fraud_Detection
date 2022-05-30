@@ -1,7 +1,7 @@
 # Fraud_Detection
 
 
-Preprocessing notebook has the details of preprocessing while in the model building notebook preprocessing steps applied without verbose.
+*Preprocessing notebook has the details of preprocessing while in the model building notebook preprocessing steps applied without verbose.*
 
 ## Preprocessing:
 - Scaling amount and time features
